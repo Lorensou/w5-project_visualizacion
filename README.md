@@ -1,6 +1,6 @@
 # Proyecto ETL con Visualización de Datos de la World Surf League (WSL)
 
-![Captura](https://github.com/Lorensou/images/World_Surf_League_Logo_2020.png)
+![Captura](https://github.com/Lorensou/w5-project_visualizacion/images/World_Surf_League_Logo_2020.png)
 
 Este repositorio contiene un proyecto ETL (Extract, Transform, Load) con visualización de datos relacionados con la World Surf League (WSL). El proyecto se centra en extraer información detallada sobre los surfistas y las competiciones, limpiar y transformar los datos utilizando Python y la biblioteca Pandas en Visual Studio Code. Una vez completada la transformación de los datos, se exportan a un archivo CSV y se cargan en Power BI para crear visualizaciones interactivas y gráficos impresionantes.
 
