@@ -18,6 +18,6 @@ Este repositorio contiene un proyecto ETL (Extract, Transform, Load) con visuali
 - Biblioteca Pandas (versión 1.4.4)
 - Power BI (versión 36257.0)
 
-![Captura](https://github.com/Lorensou/w5-project_visualizacion/blob/main/images/World_Surf_League_Logo_2020.png){:width="200px"}
+![Captura](https://github.com/Lorensou/w5-project_visualizacion/blob/main/images/World_Surf_League_Logo_2020.png)
 
 
