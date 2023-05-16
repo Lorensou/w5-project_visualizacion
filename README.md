@@ -9,7 +9,7 @@ Este repositorio contiene un proyecto ETL (Extract, Transform, Load) con visuali
 - **scripts**: Aquí se encuentran los scripts en Python utilizados para limpiar y transformar los datos.
 - **output**: Los datos transformados y archivo PowerBi se guardan en este directorio en formato CSV.
 - **visualizations**: Las capturas de pantalla y visualizaciones exportadas desde Power BI se almacenan en este directorio.
-- **images**: Contiene la imagen con el logo de la competición.
+- **images**: Contiene las capturas del dataframe y la imagen con el logo de la competición.
 
 ## Requisitos
 
